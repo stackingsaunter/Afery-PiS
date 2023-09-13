@@ -1,6 +1,6 @@
 # Afery PiS
 
-![alt text](http://url/to/img.png)
+![grafika](grafika.png)
 
 Skrót i geneza wszystkich afer PiS, wraz ze źródłami 
 
