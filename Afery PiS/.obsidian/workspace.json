@@ -50,8 +50,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AFERY/Afera Wizowa.md",
-                "mode": "source",
+                "file": "OSOBY/Piotr Wawrzyk.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFERY/Afera Wizowa.md",
+                "file": "OSOBY/Piotr Wawrzyk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AFERY/Afera Wizowa.md",
+                "file": "OSOBY/Piotr Wawrzyk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AFERY/Afera Wizowa.md"
+                "file": "OSOBY/Piotr Wawrzyk.md"
               }
             }
           }
@@ -186,13 +186,13 @@
   },
   "active": "93146c8ccf5a2b25",
   "lastOpenFiles": [
-    "AFERY/Afera SKOK.md",
     "DATY/2023.09.14.md",
-    "DATY/2022.01.01.md",
-    "AFERY/Afera Wizowa.md",
     "OSOBY/Grzegorz Bierecki.md",
-    "Edgar Kobos.md",
-    "Piotr Wawrzyk.md",
+    "AFERY/Afera SKOK.md",
+    "OSOBY/Piotr Wawrzyk.md",
+    "OSOBY/Edgar Kobos.md",
+    "AFERY/Afera Wizowa.md",
+    "DATY/2022.01.01.md",
     "Grzegorz.md",
     "Grzegorza.md",
     "OSOBY",
