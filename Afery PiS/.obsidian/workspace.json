@@ -8,12 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15b5677d25853506",
+            "id": "6749cbe35fad8e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.04.2022_1.md",
+                "file": "DATY/2023.09.14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6269fde187ab87ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSOBY/Grzegorz Bierecki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6876f37393a16f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AFERY/Afera SKOK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93146c8ccf5a2b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AFERY/Afera Wizowa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.04.2022_1.md",
+                "file": "DATY/2023.09.14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.04.2022_1.md",
+                "file": "DATY/2023.09.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.04.2022_1.md"
+                "file": "DATY/2023.09.14.md"
               }
             }
           }
@@ -146,34 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15b5677d25853506",
+  "active": "6749cbe35fad8e33",
   "lastOpenFiles": [
-    "01.02.2023_1.md",
-    "01.01.2022_1.md",
-    "01.08.2022.md",
-    "01.06.2023_1.md",
-    "01.05.2022.md",
-    "01.01.2023.md",
-    "01.02.2022.md",
-    "01.05.2023_1.md",
-    "01.03.2023_1.md",
-    "01.02.2023.md",
-    "01.05.2023.md",
-    "01.01.2023_1.md",
-    "01.02.2022_1.md",
-    "01.03.2022_1.md",
-    "01.04.2023.md",
-    "31.07.2022_1.md",
-    "02.08.2022_1.md",
-    "01.03.2023.md",
-    "01.01.2022.md",
-    "data/01.01.2023.md",
-    "31.12.2022.md",
-    "31.12.2022_1.md",
-    "31.10.2022.md",
-    "31.10.2022_1.md",
-    "31.08.2023.md",
-    "31.08.2023_1.md",
+    "AFERY/Afera SKOK.md",
+    "DATY/2022.01.01.md",
+    "AFERY/Afera Wizowa.md",
+    "OSOBY/Grzegorz Bierecki.md",
+    "DATY/2023.09.14.md",
+    "Edgar Kobos.md",
+    "Piotr Wawrzyk.md",
+    "Grzegorz.md",
+    "Grzegorza.md",
+    "OSOBY",
+    "OSOBY.md",
+    "AFERY",
+    "DATY/2023.10.18_1.md",
+    "DATY",
+    "DATY/2023.09.15.md",
+    "DATY/2023.09.13_1.md",
+    "DATY/2022.01.08_1.md",
+    "DATY/2022.01.08.md",
+    "DATY/2022.01.01_1.md",
+    "DATY/2022.01.02_1.md",
+    "DATY/2023.09.16.md",
+    "2023.09.14_1.md",
+    "DATY/2023.09.07.md",
+    "DATY/2023.09.10.md",
+    "DATY/2023.10.07.md",
+    "DATY/2023.10.07_1.md",
+    "DATY/2023.03.06_1.md",
+    "DATY/2023.03.04.md",
+    "DATY/2023.09.17.md",
     "data"
   ]
 }
