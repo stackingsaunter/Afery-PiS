@@ -20,6 +20,8 @@ Pierwotna wersja strony internetowej zaprogramowana została przez Cypriana Gbur
 4. [Licencja](#licencja)
 5. [Kontakt](#kontakt)
 6. [Kontrybucja](#kontrybucja)
+7. [Podgląd](#podgląd)
+8. [Podziękowania](#podziękowania)
 
 ## Opis
 
@@ -128,3 +130,47 @@ Szczegółowy opis afery
 5. Po zaakceptowaniu PR, zaczekać na zbudowanie strony przez GitHub Actions
 6. Sprawdzić czy strona została zbudowana poprawnie i czy zawiera nową afere
 7. Zgłosić ewentualne błędy w PR lub do któregoś z członków zespołu
+
+## Podgląd
+
+Screenshoty strony internetowej znajdują się w folderze `Screenshots` oraz poniżej:
+
+<div align="center">
+
+1. Strona główna (desktop)
+
+![Strona główna (desktop)](/Screenshots/1.png)
+
+2. Strona główna (light mode)
+
+![Strona główna (light mode)](/Screenshots/2.png)
+
+3. Strona "o nas" (desktop - light mode)
+
+![Strona "o nas" (desktop - light mode)](/Screenshots/3.png)
+
+4. Strona "o nas" (desktop - dark mode)
+
+![Strona "o nas" (desktop - dark mode)](/Screenshots/4.png)
+
+5. Strona z wyszukiwarką (desktop - dark mode)
+
+![Strona z wyszukiwarką (desktop - dark mode)](/Screenshots/5.png)
+
+6. Strona z wynikami wyszukiwania (desktop - dark mode)
+
+![Strona z wynikami wyszukiwania (desktop - dark mode)](/Screenshots/6.png)
+
+7. Strona z wybraną afery (desktop - dark mode)
+
+![Strona z wybraną afery (desktop - dark mode)](/Screenshots/7.png)
+
+8. Strona z wybraną aferą i klikniętym źródłem (desktop - dark mode)
+
+![Strona z wybraną aferą i klikniętym źródłem (desktop - dark mode)](/Screenshots/8.png)
+
+</div>
+
+## Podziękowania
+
+Serdecznie dziękujemy wszystkim osobom, które przyczyniły się do powstania tego projektu, oraz wszystkim osobom, które przyczyniają się do jego rozwoju. Szczególne podziękowania należą się grupie *Jak Będzie w Akapie?* oraz wszystkim jej członkom, którzy przyczynili się do powstania tego projektu.
