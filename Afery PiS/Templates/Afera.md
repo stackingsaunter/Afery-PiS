@@ -1,7 +1,6 @@
 
 ---
 title: 'Afera XXX'
-date: '14.09.2022'
 importance: 3
 involved: ['imie nazwisko', 'imie nazwisko 2']
 tags: ['wizy', 'piotr wawrzyk', 'imigranci']
@@ -32,3 +31,6 @@ Wylistowane fakty związane z aferą
 
 # Powiązani
 Lista osób powiązanych
+
+# Wiadomości
+Odnośniki do dat / linki do najnowszych wiadomości

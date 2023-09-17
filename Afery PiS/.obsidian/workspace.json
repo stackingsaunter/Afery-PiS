@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATY/2022.01.02.md",
+                "file": "AFERY/Ustawa \"Lex Tusk\".md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,12 +49,36 @@
               "state": {
                 "file": "DATY/2022.02.21.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aec1898532fb1fa5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "f41dd9324479521b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Afera.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATY/2022.01.02.md",
+                "file": "Templates/Afera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATY/2022.01.02.md",
+                "file": "Templates/Afera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +184,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATY/2022.01.02.md"
+                "file": "Templates/Afera.md"
+              }
+            }
+          },
+          {
+            "id": "1702575f71b0a3b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,22 +215,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c76d4eb3632fbc93",
+  "active": "f41dd9324479521b",
   "lastOpenFiles": [
+    "Templates/Osoba.md",
+    "OSOBY/Mateusz Błaszczak.md",
+    "AFERY/Odtajnenie tajnych dokumentów wojskowych.md",
+    "DATY/2023.09.17.md",
+    "DATY/2023-09-17.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "AFERY/Afera Getback.md",
+    "Templates/Afera.md",
+    "Assets/Pasted image 20230917231316.png",
+    "Templates/Data.md",
+    "OSOBY/Mariusz Błaszczak.md",
+    "AFERY/Afera Wizowa.md",
+    "AFERY/Afera SKOK.md",
+    "DATY/2022.01.02.md",
     "DATY/2022.01.01_1.md",
     "DATY/2022.01.02_1.md",
-    "DATY/2022.01.02.md",
     "AFERY/Ustawa \"Lex Tusk\".md",
     "Assets/Pasted image 20230917204028.png",
     "DATY/2023.09.23.md",
     "DATY/2022.02.21.md",
-    "AFERY/Afera Getback.md",
-    "AFERY/Afera SKOK.md",
-    "AFERY/Afera Wizowa.md",
     "OSOBY/Elżbieta Witek.md",
     "OSOBY/Sławomir Cenckiewicz.md",
     "Afera.md",
-    "Templates/Afera.md",
     "OSOBY/Piotr Wawrzyk.md",
     "OSOBY/Konrad Kąkolewski.md",
     "OSOBY/Jacek Sasin.md",
@@ -205,14 +250,7 @@
     "Assets/Pasted image 20230917201428.png",
     "Assets/Pasted image 20230917201404.png",
     "Assets",
-    "Untitled 1.md",
-    "Templates/Data.md",
-    "Templates/Osoba.md",
-    "DATY/2022.01.01.md",
-    "DATY/2022.02.21_1.md",
     "Templates",
-    "DATY/2023.09.14.md",
-    "Grzegorz.md",
     "OSOBY",
     "AFERY",
     "DATY",

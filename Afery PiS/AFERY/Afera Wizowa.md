@@ -3,7 +3,7 @@
 title: 'Afera Wizowa'
 importance: 1
 involved: ['piotr wawrzyk', 'edgar kobos']
-tags: ['wizy', 'piotr wawrzyk', 'imigranci']
+tags: ['wizy', 'piotr wawrzyk', 'imigranci', 'korupcja]
 image_url: 'https://ocdn.eu/pulscms-transforms/1/F31k9kpTURBXy9mY2E1YjUyMDdlOTU0YjRmMmViMmFmZTc3MzhjOTM2NS5qcGeTlQMAFs0H0M0EZZMFzQMUzQG8kwmmNGZlZjFkBt4AAaEwBg/piotr-wawrzyk.avif'
 sources: [
     {

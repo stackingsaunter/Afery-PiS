@@ -3,7 +3,7 @@
 title: 'Afera Getback'
 importance: 1
 involved: ['dawid jackiewicz', 'mateusz morawiecki', 'konrad kąkolewski']
-tags: ['getback', 'banki', 'bankructwo']
+tags: ['getback', 'banki', 'bankructwo', 'korupcja']
 image_url: 'https://bi.im-g.pl/im/bf/45/17/z24400063V,Oddzial-firmy-GetBack-przy-alei--Solidarnosci--127.jpg'
 sources: [
     {
