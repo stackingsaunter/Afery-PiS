@@ -1,28 +1,77 @@
+
+---
+title: 'Afera SKOK'
+importance: 1
+involved: ['grzegorz biernecki', 'jacek sasin']
+tags: ['skok', 'finanse', 'banki', 'KNF', 'wołomin']
+image_url: 'https://ocdn.eu/pulscms-transforms/1/McJk9kpTURBXy9kOGQwNmZhYzM3YmUxY2ZmODk0NmNmOTYxYmJhM2QyNC5qcGeTlQMAzLTNFoDNDKiVAs0EsADDw5MJpmViMGMwNgbeAAGhMAE/skok-wolomin.jpeg'
+sources: [
+    {
+        source: 'Onet.pl',
+        link: 'https://wiadomosci.onet.pl/kraj/afera-skok-wolomin-o-co-w-niej-chodzi/x8f3q25'
+    },
+    {
+        source: 'Business Insider',
+        link: 'https://businessinsider.com.pl/gielda/wiadomosci/afera-skok-wolomin-o-co-w-niej-chodzi-dominika-tajner-wisniewska-sprawa-wyludzenia/b22yke3'
+    }
+]
+---
+
+![[Pasted image 20230917201404.png]]
 ## Podsumowanie
-Społeczne Kasy Oszczędnościowo-Kredytowe (SKOK-i) miały być alternatywą dla banków i pomocą w znalezieniu taniego kredytu, stały się jednak synonimem nieudolnego zarządzania i problemów finansowych. SKOK-i były także wykorzystywane w polityce, a ich zarządzanie wiązało się z kontrowersjami.
+🔍 Afera SKOK Wołomin to jedna z największych afer finansowych w Polsce, która nadal budzi kontrowersje i dotyczy setek osób.
 
 ## Fakty
-🏦 SKOK-i to kasy oszczędnościowo-kredytowe, które miały być alternatywą dla banków, oferując niższe oprocentowanie i kredyty gotówkowe.
-🇵🇱 Ideę kas wprowadzono do Polski w latach 90. przez działaczy Solidarności, a Grzegorz Bierecki odegrał kluczową rolę w organizacji tego sektora.
-🏛️ Kasa Krajowa SKOK była centralnym organem kontrolującym SKOK-i i zarządzanym przez 
-[[Grzegorz Bierecki|Grzegorza Biereckiego]]
-💼 Bierecki i jego współpracownicy stworzyli spółki, które czerpały korzyści z systemu SKOK, m.in. prowadząc szkolenia i inwestując w nieruchomości.
-📜 Politycy wspierający SKOK-i uzyskali korzyści podatkowe i preferencyjne przepisy dla tych instytucji, a niektórzy zaciągali pożyczki w SKOK-ach.
-💰 Klienci przyciągani byli atrakcyjnym oprocentowaniem, ale spowolnienie gospodarcze spowodowało, że wiele kredytów nie było spłacanych.
-🏦 SKOK Holding, firma Biereckiego w Luksemburgu, czerpała zyski z usług świadczonych SKOK-om, mimo problemów finansowych w systemie.
-💸 Aktywa wszystkich SKOK-i wynoszą niespełna 20 mld zł, a depozyty nie były początkowo objęte gwarancjami państwa.
-🛡️ Po problemach finansowych SKOK-ów w 2013 roku, KNF przejęła nadzór nad nimi i objęła depozyty gwarancjami Bankowego Funduszu Gwarancyjnego.
-📊 SKOK-i miały niski współczynnik kapitałów własnych i wiele z nich wymagało programów naprawczych lub zarządu komisarycznego.
-💥 SKOK Wspólnota i SKOK Wołomin okazały się niewypłacalne, a BFG musiał ratować depozyty klientów za kwotę 3,2 mld zł, co było większym kosztem niż afera Amber Gold.
+📅 Afera SKOK Wołomin toczy się od lat, ale stała się głośna w grudniu 2018 roku po zatrzymaniu byłych szefów Komisji Nadzoru Finansowego, w tym Wojciecha Kwaśniaka.
+
+🏦 SKOK-y, czyli spółdzielcze kasy oszczędnościowo-kredytowe, były objęte nadzorem finansowym KNF, a depozyty w nich były gwarantowane przez Bankowy Fundusz Gwarancyjny.
+
+💼 KNF stwierdziła liczne nieprawidłowości w SKOK-ach, które powstały przed objęciem nadzoru przez Komisję i zagrażały wypłacalności kas.
+
+👥 W aferze SKOK Wołomin zamieszani są liczni podejrzani, a nawet główny podejrzany Piotr P., który jest oskarżony o wyłudzenie miliardów złotych pożyczek z kasy.
+
+📈 Bankowy Fundusz Gwarancyjny wypłacił klientom upadłego SKOK Wołomin ponad 2,2 miliarda złotych, co stanowi największą kwotę wypłat dla poszkodowanych klientów instytucji finansowej w Polsce.
+
+To skrótowa informacja na temat afera SKOK Wołomin w Polsce.
+
+📊 Ok. 250 tys. osób. 💰 Łącznie BFG wypłacił już poszkodowanym w sprawach SKOK-ów ponad 4,2 mld zł:
+
+SKOK Wołomin – 2 mld 246 mln zł
+SKOK Wspólnota – 815 mln zł
+SKOK Wielkopolska – 284 mln zł
+SKOK Kujawiak – 183 mln zł
+SKOK Twoja – 170 mln zł
+SKOK Wybrzeże – 130 mln zł
+SKOK Nike – 123 mln zł
+SKOK Arka – 93 mln zł
+SKOK Polska – 88 mln zł
+SKOK Skarbiec – 87 mln zł
+SKOK Jowisz – 81 mln zł 
+
+🏛️ Senatorowie PiS są związani z aferą SKOK Wołomin. 
+
+🧐 Piotr P. zeznał, że obecny Minister Aktywów Państwowych [[Jacek Sasin]] oraz dwóch ówczesnych senatorów PiS otrzymywali pieniądze ze SKOK Wołomin. 
+
+🗳️ Posłowie PO zapowiadali złożenie zawiadomienia do prokuratury w tej sprawie. 
+
+🕰️ Historia SKOK-ów w Polsce wywodzi się z XIX wieku z Niemiec. 
+
+🏦 Fundacja na rzecz Polskich Związków Kredytowych odgrywała rolę w tworzeniu SKOK-ów. 
+
+👤 [[Grzegorz Bierecki]] pełnił kluczową rolę w historii SKOK-ów. 
+
+🇱🇺 Pieniądze z sektora SKOK płynęły do luksemburskiej spółki SKOK.
+
 
 # Powiązani:
+[[Jacek Sasin]]
 [[Grzegorz Bierecki]]
 
 
-Źródła:
+# Źródła:
 
 http://100aferpis.pl/
 
-https://www.newsweek.pl/biznes/skok-i-najwazniejsze-fakty-afery-i-powiazania-z-pis/6sz0ld4
+https://businessinsider.com.pl/gielda/wiadomosci/afera-skok-wolomin-o-co-w-niej-chodzi-dominika-tajner-wisniewska-sprawa-wyludzenia/b22yke3
 
-https://businessinsider.com.pl/firmy/zarzadzanie/ile-kosztowala-afera-skok-ow-dane-z-bankowego-funduszu-gwarancyjnego/thd3dph
+https://wiadomosci.onet.pl/kraj/afera-skok-wolomin-o-co-w-niej-chodzi/x8f3q25

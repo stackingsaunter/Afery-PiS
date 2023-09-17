@@ -1,7 +1,6 @@
 
 ---
 title: 'Afera Wizowa'
-date: '14.09.2022'
 importance: 1
 involved: ['piotr wawrzyk', 'edgar kobos']
 tags: ['wizy', 'piotr wawrzyk', 'imigranci']
