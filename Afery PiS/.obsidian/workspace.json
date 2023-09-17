@@ -24,9 +24,17 @@
             "id": "1abb65258d1af002",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c76d4eb3632fbc93",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AFERY/Ustawa \"Lex Tusk\".md",
+                "file": "DATY/2022.01.02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFERY/Ustawa \"Lex Tusk\".md",
+                "file": "DATY/2022.01.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AFERY/Ustawa \"Lex Tusk\".md",
+                "file": "DATY/2022.01.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AFERY/Ustawa \"Lex Tusk\".md"
+                "file": "DATY/2022.01.02.md"
               }
             }
           }
@@ -172,11 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d52fab4ec16df9c3",
+  "active": "c76d4eb3632fbc93",
   "lastOpenFiles": [
+    "DATY/2022.01.01_1.md",
+    "DATY/2022.01.02_1.md",
+    "DATY/2022.01.02.md",
+    "AFERY/Ustawa \"Lex Tusk\".md",
     "Assets/Pasted image 20230917204028.png",
     "DATY/2023.09.23.md",
-    "AFERY/Ustawa \"Lex Tusk\".md",
     "DATY/2022.02.21.md",
     "AFERY/Afera Getback.md",
     "AFERY/Afera SKOK.md",
@@ -202,9 +213,7 @@
     "Templates",
     "DATY/2023.09.14.md",
     "Grzegorz.md",
-    "Grzegorza.md",
     "OSOBY",
-    "OSOBY.md",
     "AFERY",
     "DATY",
     "data"
